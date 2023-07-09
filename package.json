@@ -1,0 +1,14 @@
+{
+  "name": "mongodb-example",
+  "version": "1.0.0",
+  "description": "Simple example app for connecting to a mongodb instance through docker",
+  "main": "tasks.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Ben Schulze",
+  "license": "MIT",
+  "dependencies": {
+    "mongodb": "^5.7.0"
+  }
+}
