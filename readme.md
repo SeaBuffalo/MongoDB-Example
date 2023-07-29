@@ -14,7 +14,7 @@ Then, run
 ```sh
 docker run --publish 27017:27017 --name node-mongo --detach mongo:4
 ```
-to create a docker container with a PostgreSQL instance
+to create a docker container with a MongoDB instance
 
 ---
 
